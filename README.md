@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KenZan00
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning webdesign
+- 🌱 I’m currently learning webdevelopment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
